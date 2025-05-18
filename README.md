@@ -105,10 +105,6 @@ My work stands at the intersection of artificial intelligence theory and practic
 My ultimate goal is to create AI systems that operate as collaborative partners rather than passive tools, capable of understanding complex instructions, reasoning about their environment, and taking initiative when appropriate.
 
 <div align="center">
-  <img src="https://github.com/ManiOmranifar/ManiOmranifar/blob/output/github-contribution-grid-snake.svg" alt="Contribution Activity" width="100%" />
-</div>
-
-<div align="center">
 
 ## 〉CONNECT & COLLABORATE
 
