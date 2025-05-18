@@ -21,56 +21,41 @@ I architect next-generation AI systems that transcend conventional boundaries be
 
 ## FLAGSHIP PROJECTS
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/nolan/96/artificial-intelligence.png" width="60" height="60"/>
-      <h3>NeuraAI</h3>
-      <p><i>Command-line AI assistant with contextual memory</i></p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/nolan/96/brain.png" width="60" height="60"/>
-      <h3>Autonomous Intelligence</h3>
-      <p><i>Self-learning AI research platform</i></p>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.icons8.com/nolan/96/cctv.png" width="60" height="60"/>
-      <h3>YOLOv8 Behavior System</h3>
-      <p><i>Pattern analysis for behavioral detection</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Real-time memory architecture with adaptive context retention</li>
-        <li>Natural language & voice command interface</li>
-        <li>System-level hardware/software integration</li>
-        <li>Self-evolving algorithm framework</li>
-        <li>Multi-threaded parallel task processing</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Unsupervised environmental learning networks</li>
-        <li>Advanced deep reinforcement learning engine</li>
-        <li>Probabilistic decision matrix system</li>
-        <li>Autonomous parameter optimization</li>
-        <li>Multi-environment consistency verification</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>High-performance movement tracking</li>
-        <li>Complex behavior pattern recognition</li>
-        <li>Context-aware anomaly detection</li>
-        <li>Edge-optimized performance</li>
-        <li>Specialized detection model training</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
+### NeuraAI
+
+*Advanced command-line AI assistant with contextual memory and native system integration*
+
+```
+⚡ Real-time memory architecture with sophisticated context retention capabilities
+⚡ Natural language control interface supporting both voice and text command execution
+⚡ System-level integration enabling direct hardware and software control
+⚡ Self-evolving algorithm framework for continuous performance optimization
+⚡ Multi-threaded processing for simultaneous task handling and monitoring
+```
+
+### Autonomous Intelligence Framework
+
+*Research platform for developing self-learning artificial intelligence systems*
+
+```
+⚡ Neural network architecture optimized for unsupervised environmental learning
+⚡ Advanced deep reinforcement learning with dynamic reward-penalty systems
+⚡ Adaptive decision matrix with probabilistic outcome evaluation capability
+⚡ Real-time performance monitoring and autonomous parameter adjustment
+⚡ Multi-environment testing framework for behavioral consistency verification
+```
+
+### YOLOv8 Behavior Detection System
+
+*State-of-the-art computer vision implementation for behavioral pattern analysis*
+
+```
+⚡ High-performance object detection and tracking optimized for human movement
+⚡ Sophisticated pattern recognition for complex behavior identification
+⚡ Real-time anomaly detection with situational context awareness
+⚡ Low-latency processing for deployment on resource-constrained edge devices
+⚡ Custom-trained models for specialized detection scenarios
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiOmranifar&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact&border_radius=10" width="52%" />
@@ -120,47 +105,18 @@ I architect next-generation AI systems that transcend conventional boundaries be
 
 ## RESEARCH PHILOSOPHY
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="100%" align="center" bgcolor="#0D1117" style="border-radius:15px; padding:20px;">
-        <img src="https://img.icons8.com/nolan/96/light.png" width="50" height="50"/>
-        <h3 style="color:#7957D5; margin:10px 0;">Intelligence is not merely programmed—it emerges from systems that can observe, learn, and adapt autonomously.</h3>
-      </td>
-    </tr>
-  </table>
-</div>
+## RESEARCH PHILOSOPHY
 
-<br>
+> *"Intelligence is not merely programmed—it emerges from systems that can observe, learn, and adapt autonomously."*
 
 My research is dedicated to developing artificial intelligence systems that transcend traditional programming paradigms:
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/nolan/96/robot.png" width="40" height="40"/>
-      <h4>Autonomous Learning</h4>
-      <p>Systems that acquire knowledge through exploration rather than explicit instruction</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/nolan/96/mind-map.png" width="40" height="40"/>
-      <h4>Contextual Understanding</h4>
-      <p>Memory architectures that maintain information relationships across interactions</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/nolan/96/recycling-arrows.png" width="40" height="40"/>
-      <h4>Dynamic Adaptation</h4>
-      <p>Frameworks that modify behavior in response to environmental changes</p>
-    </td>
-    <td width="25%" align="center">
-      <img src="https://img.icons8.com/nolan/96/chat.png" width="40" height="40"/>
-      <h4>Natural Interfaces</h4>
-      <p>Communication systems that understand human intent through natural language</p>
-    </td>
-  </tr>
-</table>
-</div>
+- **Autonomous Learning** - Creating systems that acquire knowledge through exploration rather than explicit instruction
+- **Contextual Understanding** - Building memory architectures that maintain information relationships across interactions
+- **Dynamic Adaptation** - Designing frameworks that modify behavior in response to environmental changes
+- **Natural Interfaces** - Developing communication systems that understand human intent through natural language
+
+I aim to bridge the gap between theoretical AI research and practical applications, creating systems that not only execute tasks but understand the context and purpose behind them.
 
 I aim to bridge the gap between theoretical AI research and practical applications, creating systems that not only execute tasks but understand the context and purpose behind them.
 
