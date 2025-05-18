@@ -105,8 +105,6 @@ I architect next-generation AI systems that transcend conventional boundaries be
 
 ## RESEARCH PHILOSOPHY
 
-## RESEARCH PHILOSOPHY
-
 > *"Intelligence is not merely programmed—it emerges from systems that can observe, learn, and adapt autonomously."*
 
 My research is dedicated to developing artificial intelligence systems that transcend traditional programming paradigms:
@@ -115,8 +113,6 @@ My research is dedicated to developing artificial intelligence systems that tran
 - **Contextual Understanding** - Building memory architectures that maintain information relationships across interactions
 - **Dynamic Adaptation** - Designing frameworks that modify behavior in response to environmental changes
 - **Natural Interfaces** - Developing communication systems that understand human intent through natural language
-
-I aim to bridge the gap between theoretical AI research and practical applications, creating systems that not only execute tasks but understand the context and purpose behind them.
 
 I aim to bridge the gap between theoretical AI research and practical applications, creating systems that not only execute tasks but understand the context and purpose behind them.
 
