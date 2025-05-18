@@ -1,24 +1,21 @@
 <div align="center">
 
-# MANI OMRANIFAR
+# Mani Omranifar
+<blockquote align="center">
+  <h3><em>Programming is not just a tool; it’s a way to understand the world and gain a deeper insight into life</em></h3>
+</blockquote>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=7957D5&center=true&vCenter=true&width=435&lines=AI+RESEARCHER;BACKEND+ARCHITECT;NEURAAI+VISIONARY" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=AI+RESEARCHER;BACKEND+ARCHITECT;NEURA+AI+VISIONARY" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManiOmranifar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7957D5&ring_color=7957D5&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiOmranifar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7957D5&fire=7957D5&currStreakLabel=7957D5&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManiOmranifar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7957D5" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiOmranifar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7957D5&fire=7957D5&currStreakLabel=7957D5" width="49%" />
 </div>
 
 <br>
-
-## PROFESSIONAL FOCUS
-
-<kbd>Artificial Intelligence</kbd> <kbd>Deep Reinforcement Learning</kbd> <kbd>Computer Vision</kbd> <kbd>Natural Language Processing</kbd> <kbd>Autonomous Systems</kbd>
-
-I architect next-generation AI systems that transcend conventional boundaries between human instruction and machine learning. My work encompasses developing intelligence that evolves autonomously through environmental interaction, understands natural language with contextual awareness, and recognizes complex patterns through advanced computer vision.
-
 
 ## 〉VISION & EXPERTISE
 
@@ -34,7 +31,7 @@ I'm at the forefront of AI research and development, pushing the boundaries of w
 
 ## 〉SIGNATURE PROJECTS
 
-### ⚡ NeuraAI
+### NeuraAI
 
 A revolutionary command-line AI assistant that represents the next evolution in human-computer interaction. Unlike conventional assistants, NeuraAI features:
 
@@ -43,7 +40,7 @@ A revolutionary command-line AI assistant that represents the next evolution in 
 - System-level integration allowing control of hardware and software components
 - Self-improvement mechanisms that enhance performance over time
 
-### ⚡ Autonomous Intelligence Framework
+### Autonomous Intelligence Framework
 
 Breakthrough research platform focused on developing artificial intelligence that learns without human instruction:
 
@@ -51,7 +48,7 @@ Breakthrough research platform focused on developing artificial intelligence tha
 - Features advanced reward-penalty systems that guide evolutionary development
 - Achieves complex decision-making through environmental exploration and pattern analysis
 
-### ⚡ YOLOv8 Behavior Detection System
+### YOLOv8 Behavior Detection System
 
 State-of-the-art computer vision implementation for intelligent behavior analysis:
 
@@ -70,7 +67,6 @@ State-of-the-art computer vision implementation for intelligent behavior analysi
 **CORE LANGUAGES**
   
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117)
 
@@ -116,10 +112,8 @@ My ultimate goal is to create AI systems that operate as collaborative partners 
 
 ## 〉CONNECT & COLLABORATE
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maniomranifar)
-[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManiOmranifar)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@maniomranifar.com)
-[![Website](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=safari&logoColor=white)](https://maniomranifar.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ManiOmranifar?s=09)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniomranifar@gmail.com)
 
 </div>
 
