@@ -2,18 +2,23 @@
 
 # MANI OMRANIFAR
 
-[![](https://img.shields.io/badge/AI_RESEARCHER-0a0a0a?style=for-the-badge)](https://github.com/ManiOmranifar)
-[![](https://img.shields.io/badge/BACKEND_DEVELOPER-0a0a0a?style=for-the-badge)](https://github.com/ManiOmranifar)
-[![](https://img.shields.io/badge/NEURAAI_ARCHITECT-0a0a0a?style=for-the-badge)](https://github.com/ManiOmranifar)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=7957D5&center=true&vCenter=true&width=435&lines=AI+RESEARCHER;BACKEND+ARCHITECT;NEURAAI+VISIONARY" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManiOmranifar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7957D5" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiOmranifar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7957D5&fire=7957D5&currStreakLabel=7957D5" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManiOmranifar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7957D5&ring_color=7957D5&border_radius=10" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiOmranifar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7957D5&fire=7957D5&currStreakLabel=7957D5&border_radius=10" width="49%" />
 </div>
 
 <br>
+
+## PROFESSIONAL FOCUS
+
+<kbd>Artificial Intelligence</kbd> <kbd>Deep Reinforcement Learning</kbd> <kbd>Computer Vision</kbd> <kbd>Natural Language Processing</kbd> <kbd>Autonomous Systems</kbd>
+
+I architect next-generation AI systems that transcend conventional boundaries between human instruction and machine learning. My work encompasses developing intelligence that evolves autonomously through environmental interaction, understands natural language with contextual awareness, and recognizes complex patterns through advanced computer vision.
+
 
 ## 〉VISION & EXPERTISE
 
