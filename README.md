@@ -112,6 +112,7 @@ My ultimate goal is to create AI systems that operate as collaborative partners 
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ManiOmranifar?s=09)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniomranifar@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/STACKOVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30763918/mani-omranifar)
 
 </div>
 
