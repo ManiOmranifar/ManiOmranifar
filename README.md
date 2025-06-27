@@ -1,4 +1,3 @@
-// readme.md
 <div align="center">
 
 # Mani Omranifar
