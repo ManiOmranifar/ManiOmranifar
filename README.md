@@ -1,10 +1,8 @@
 <div align="center">
 
 <div align="center">
-  <h6>
-    We Need Help In Iran
-    #Internet-for-Iran
-  </h6>
+  <h6>We Need Help In Iran</h6>
+  <h6>#Internet-for-Iran</h6>
 </div>
 
 # Mani Omranifar
