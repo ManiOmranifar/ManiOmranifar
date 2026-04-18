@@ -87,6 +87,7 @@ State-of-the-art computer vision implementation for intelligent behavior analysi
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=0D1117)
+![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=flat-square&logo=anaconda&logoColor=white&labelColor=0D1117)
 
 **WEB & API DEVELOPMENT**
   
