@@ -56,10 +56,6 @@ State-of-the-art computer vision implementation for intelligent behavior analysi
 - Pattern recognition system capable of identifying anomalous activities
 - Optimized resource utilization for deployment on edge devices
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiOmranifar&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&layout=compact" width="52%" />
-</div>
-
 ## 〉TECHNICAL ARSENAL
 
 <div align="center">
