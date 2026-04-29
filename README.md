@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManiOmranifar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7957D5&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ManiOmranifar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=6E56CF&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManiOmranifar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=7957D5&fire=7957D5&currStreakLabel=7957D5" width="49%" alt="Streak Stats"/>
 </div>
 
